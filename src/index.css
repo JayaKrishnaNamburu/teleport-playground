@@ -16,9 +16,11 @@ code {
 .wrapper {
   display: flex;
   flex-direction: row;
+  height: 100vh;
 }
 
 .holderWrapper {
-  border: 2px solid #ddd;
+  width: 100%;
+  padding: 15px;
   height: 100%;
 }

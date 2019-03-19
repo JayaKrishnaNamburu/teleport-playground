@@ -42,7 +42,7 @@ export const sample = {
               "type": "image",
               "name": "img",
               "attrs": {
-                "src": "https://via.placeholder.com/150",
+                "src": "https://picsum.photos/150/150",
                 "alt": "Jaya Krishna"
               }
             }
