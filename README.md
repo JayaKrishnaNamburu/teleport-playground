@@ -2,4 +2,4 @@ This project is a WIP, a POC to display the components that are generated using 
 
 Valid UIDL [Samples](https://github.com/JayaKrishnaNamburu/teleport-code-generators/tree/master/examples/uidl-samples)
 
-![preview](/pubic/demo.gif?raw=true, "Preview")
+![preview](/public/demo.gif?raw=true, "Preview")
