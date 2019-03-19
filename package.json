@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/traverse": "^7.3.4",
+    "@teleporthq/teleport-code-generators": "^0.4.1",
+    "babel-generator": "^6.26.1",
+    "babylon": "^6.18.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-monaco-editor": "^0.25.1",
     "react-scripts": "2.1.8"
   },
   "scripts": {
